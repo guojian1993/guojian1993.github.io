@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website | 郭剑 | Jian Guo</title>
+    <link>https://guojian1993.github.io/tags/website/</link>
+      <atom:link href="https://guojian1993.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <description>website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021-2022  [备案号] (https://guojian1993.github.io)</copyright><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>website</title>
+      <link>https://guojian1993.github.io/tags/website/</link>
+    </image>
+    
+    <item>
+      <title>Academic blog officially established</title>
+      <link>https://guojian1993.github.io/post/1.getting-started/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://guojian1993.github.io/post/1.getting-started/</guid>
+      <description>&lt;p&gt;2022年5月28日，我创建了自己的学术博客！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
