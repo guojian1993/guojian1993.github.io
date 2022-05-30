@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks | 郭剑 | Jian Guo</title>
-    <link>https://guojian1993.github.io/talk/</link>
-      <atom:link href="https://guojian1993.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.guojianac.com/talk/</link>
+      <atom:link href="https://www.guojianac.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021-2022  [备案号] (https://guojian1993.github.io)</copyright><lastBuildDate>Sat, 21 May 2022 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021-2022 </copyright><lastBuildDate>Sat, 21 May 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Talks</title>
-      <link>https://guojian1993.github.io/talk/</link>
+      <link>https://www.guojianac.com/talk/</link>
     </image>
     
     <item>
       <title>Research on formation and transformation mechanism of landslide-induced debris flow disaster chain</title>
-      <link>https://guojian1993.github.io/talk/220521these/</link>
+      <link>https://www.guojianac.com/talk/220521these/</link>
       <pubDate>Sat, 21 May 2022 14:00:00 +0000</pubDate>
-      <guid>https://guojian1993.github.io/talk/220521these/</guid>
+      <guid>https://www.guojianac.com/talk/220521these/</guid>
       <description></description>
     </item>
     
